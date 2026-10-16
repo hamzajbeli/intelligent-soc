@@ -66,8 +66,6 @@ pour être modifié avec draw.io.
 - [ ] SOC Copilot
 - [ ] Scénarios d'attaque simulés et évaluation (précision, faux positifs)
 
-## Ma part dans le projet
-[À compléter : les modules dont tu es responsable]
 
 ## Limites
 Projet en cours : aucune performance n'est encore mesurée. Les technologies
