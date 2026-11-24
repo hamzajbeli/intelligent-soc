@@ -15,8 +15,6 @@ avec un analyste humain qui garde la décision finale.
 ## Architecture cible
 
 ![Architecture du SOC intelligent](architecture%20SOC%20intelligent.png)
-Le fichier source du schéma (`architecture.drawio`) est disponible dans le dépôt
-pour être modifié avec draw.io.
 
 ### Flux prévu
 1. Un attaquant (Kali Linux) cible l'environnement protégé par **pfSense**.
