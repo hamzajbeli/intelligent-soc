@@ -4,8 +4,6 @@
 > attaques réseau et les malwares, évaluer le risque et déclencher une réponse
 > automatisée.
 
-> 🚧 **Statut : phase de conception.** Ce dépôt contient pour l'instant
-> l'architecture cible. L'implémentation n'a pas encore commencé.
 
 ## Contexte
 Projet d'équipe [année]. Objectif : construire un SOC où les alertes ne sont pas
