@@ -6,7 +6,7 @@
 
 
 ## Contexte
-Projet d'équipe [année]. Objectif : construire un SOC où les alertes ne sont pas
+Objectif : construire un SOC où les alertes ne sont pas
 seulement collectées, mais classées, expliquées et traitées automatiquement,
 avec un analyste humain qui garde la décision finale.
 
