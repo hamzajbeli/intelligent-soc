@@ -14,7 +14,7 @@ avec un analyste humain qui garde la décision finale.
 
 ## Architecture cible
 
-![Architecture du SOC intelligent](architecture SOC Intelligent.png)
+![Architecture du SOC intelligent](architecture SOC intelligent.png)
 
 Le fichier source du schéma (`architecture.drawio`) est disponible dans le dépôt
 pour être modifié avec draw.io.
